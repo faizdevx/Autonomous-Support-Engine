@@ -6,18 +6,37 @@ Multi-agent customer support system with:
 - Self-critique loop
 - Confidence-based escalation
 
-## Setup
+## 🚀 Quick Prototype (5 minutes)
+
+```bash
+pip install -r requirements.txt
+
+# Terminal 1: Start API
+uvicorn app:app --reload
+
+# Terminal 2: Start UI
+streamlit run app_ui.py
+```
+
+**Open http://localhost:8501 and ask questions!**
+
+See the response, confidence, revisions, and full reasoning.
+
+## 🌍 Share with Anyone (ngrok)
+
+```bash
+pip install pyngrok
+ngrok http 8501
+```
+
+Send the ngrok URL (e.g., https://abc123.ngrok.io) to anyone for instant demo.
+
+## Full Setup
 
 ```bash
 git clone <repo>
 cd autonomous-support-engine
 pip install -r requirements.txt
-```
-
-## Run Backend
-
-```bash
-uvicorn app:app --reload
 ```
 
 ## Run Simulation
@@ -43,11 +62,7 @@ streamlit run dashboard.py
 
 ## Architecture
 
-Router → Knowledge (RAG) → Responder → Critic → Supervisor
-
-## Goal
-
-Not a chatbot. A system that processes tickets, validates responses, escalates when uncertain. 
+Router → Knowledge (RAG) → Responder → Critic → Supervisor 
 
 Agents DO NOT decide freely
 
