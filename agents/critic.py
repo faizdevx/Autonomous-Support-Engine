@@ -1,37 +1,36 @@
 def critic_agent(state):
-    draft = state.current_draft
 
-    prompt = f"""
-    Evaluate response:
-    1. factual_accuracy
-    2. tone
-    3. completeness
+    draft = state.current_draft or ""
+    context = " ".join(state.retrieved_context).lower()
 
-    Return JSON true/false.
+    # Check if draft contains words not in context (basic hallucination detection)
+    draft_words = set(draft.lower().split())
+    context_words = set(context.split())
+    factual = draft_words.issubset(context_words) or any(word in context for word in draft_words)
 
-    Response: {draft}
-    """
-
-    result = call_llm(prompt)
-
-    state.critic_scores = {
-        "factual_accuracy": True,
-        "tone": True,
-        "completeness": True
+    scores = {
+        "factual_accuracy": factual,
+        "tone": len(draft) > 40,
+        "completeness": "please" in draft.lower() or "next" in draft.lower() or "information" in draft.lower()
     }
 
-    return state
+    feedback = []
 
+    if not scores["factual_accuracy"]:
+        feedback.append("Answer contains info not in context")
 
-def run_responder_loop(state):
-    for _ in range(2):
-        state = responder_agent(state)
-        state = critic_agent(state)
+    if not scores["tone"]:
+        feedback.append("Tone is too blunt, add empathy.")
 
-        if all(state.critic_scores.values()):
-            return state
+    if not scores["completeness"]:
+        feedback.append("Add clear next steps.")
 
-        state.revision_count += 1
+    result = {
+        "scores": scores,
+        "feedback": " ".join(feedback)
+    }
 
-    state.status = "Escalated"
+    state.critic_scores = scores
+    state.critic_history.append(result)   # 🔥 LOG IT
+
     return state

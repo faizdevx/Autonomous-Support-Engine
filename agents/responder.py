@@ -1,13 +1,28 @@
+from llm.hf_model import call_llm
+
+
 def responder_agent(state):
     context = "\n".join(state.retrieved_context)
 
     prompt = f"""
-    Answer the user using ONLY this context:
+    You MUST follow rules:
 
+    1. Use ONLY the provided context
+    2. If answer not in context → say "I don't have enough information"
+    3. DO NOT add external knowledge
+
+    CONTEXT:
     {context}
 
-    Question: {state.user_input}
+    QUESTION:
+    {state.user_input}
+
+    Improve based on feedback if provided.
     """
 
-    state.current_draft = call_llm(prompt)
+    draft = call_llm(prompt)
+
+    state.current_draft = draft
+    state.drafts.append(draft)   # 🔥 LOG IT
+
     return state

@@ -1,47 +1,59 @@
-# Autonomous-Support-Engine
+# Autonomous Support Engine
 
-User → Supervisor → Router → Knowledge → Responder → Critic → (Loop / Exit)
+Multi-agent customer support system with:
+- SOP-based routing
+- RAG grounding (no hallucination)
+- Self-critique loop
+- Confidence-based escalation
 
-everything revolve around **STATE**
+## Setup
 
-| Layer         | Tool                                    |
-| ------------- | --------------------------------------- |
-| API           | FastAPI                                 |
-| State         | Pydantic                                |
-| Agents        | Python functions (don’t overcomplicate) |
-| LLM           | HuggingFace (free)                      |
-| Vector DB     | FAISS                                   |
-| Storage       | Dict / SQLite                           |
-| Orchestration | Manual flow (LangGraph later)           |
+```bash
+git clone <repo>
+cd autonomous-support-engine
+pip install -r requirements.txt
+```
 
+## Run Backend
 
+```bash
+uvicorn app:app --reload
+```
 
+## Run Simulation
 
-AUTONOMOUS-SUPPORT-SYSTEM/
-│
-├── app.py                # FastAPI entry
-├── models/
-│   └── state.py         # Pydantic models
-├── agents/
-│   ├── router.py
-│   ├── knowledge.py
-│   ├── responder.py
-│   ├── critic.py
-│
-├── llm/
-│   └── hf_model.py
-│
-├── rag/
-│   ├── embed.py
-│   ├── retriever.py
-│
-├── db/
-│   └── memory.py
+```bash
+python simulate.py
+```
 
+Generates: `metrics.csv` (performance data)
 
+## Run Dashboard
 
-✔ Multi-agent pipeline
-✔ SOP-driven flow
-✔ Self-correction loop
-✔ Confidence gating
-✔ Async-ready backend
+```bash
+streamlit run dashboard.py
+```
+
+## Features
+
+- Deterministic workflows (billing, login, API)
+- No hallucination (context-only responses)
+- Critic loop improves answers
+- Metrics: resolution rate, latency, revisions
+
+## Architecture
+
+Router → Knowledge (RAG) → Responder → Critic → Supervisor
+
+## Goal
+
+Not a chatbot. A system that processes tickets, validates responses, escalates when uncertain. 
+
+Agents DO NOT decide freely
+
+SOP decides → Agents execute
+
+SOP I WILL BE DEFINING IN THIS:-
+
+✅ SOP 1: Refund Not Received
+✅ SOP 2: Login Issue (Auth)

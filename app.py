@@ -1,24 +1,20 @@
 
-def execute(state):
-    if state.status == "Escalated":
-        state.confidence_score = 0.3
-    else:
-        state.status = "Auto-Resolved"
-        state.confidence_score = 0.9
+from fastapi import FastAPI, HTTPException
 
+from db.memory import get_ticket, save_ticket
+from services.ticket_processor import process_ticket
+from models.state import TicketState
+
+app = FastAPI(title="Autonomous Support Engine")
+
+
+@app.post("/process_ticket/{ticket_id}", response_model=TicketState)
+async def process_ticket_endpoint(ticket_id: str):
+    try:
+        state = get_ticket(ticket_id)
+    except KeyError:
+        raise HTTPException(status_code=404, detail="Ticket not found")
+
+    state = process_ticket(state)
+    save_ticket(state)
     return state
-
-
-@app.post("/process_ticket/{ticket_id}")
-async def process_ticket(ticket_id: str):
-    state = ticket_db[ticket_id]
-
-    state = router_agent(state)
-    state = knowledge_agent(state)
-    state = run_responder_loop(state)
-    state = execute(state)
-
-    ticket_db[ticket_id] = state
-    return state
-
-    
