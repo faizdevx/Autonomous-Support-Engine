@@ -1,92 +1,47 @@
 # Autonomous-Support-Engine
-ai agents vs agentic ai 
 
-AI agent = answers questions
-Agentic AI = plans + decides + acts + collaborates
+User → Supervisor → Router → Knowledge → Responder → Critic → (Loop / Exit)
 
-understand the problem
-decide what to do
-use tools (RAG, APIs, memory)
-execute steps
-improve itself
+everything revolve around **STATE**
 
-
-multi agents 
-
-one plan 
-one decide 
-one act 
-one collabrate 
-
-rag system 
-retrieval + vector search = accuracy
-
-Self-critique loop = “validation + reliability”
-
-critic agent to reduce hallucination and improve response quality
-
-SOP workflows = “real-world behavior”
-
-agentic systems follow step-by-step workflows (SOPs)
-
-Example:
-
-User: “Refund not received”
-
-Your system should:
-
-classify issue
-check policy
-retrieve refund steps
-suggest actions
-escalate if needed
-
-That’s not chat. That’s process execution.
-
-Intent Detection (Planner)
-   ↓
-Workflow Selection (SOP logic)
-   ↓
-Retriever (RAG)
-   ↓
-Writer (Draft)
-   ↓
-Critic (Validation)
-   ↓
-Refinement Loop
-   ↓
-Final Answer / Action
-   ↓
-(Optional) CRM Action / Ticket Creation
+| Layer         | Tool                                    |
+| ------------- | --------------------------------------- |
+| API           | FastAPI                                 |
+| State         | Pydantic                                |
+| Agents        | Python functions (don’t overcomplicate) |
+| LLM           | HuggingFace (free)                      |
+| Vector DB     | FAISS                                   |
+| Storage       | Dict / SQLite                           |
+| Orchestration | Manual flow (LangGraph later)           |
 
 
-[Human-AI collaboration matters] matters 
-
-Escalation Agent (optional but powerful)
-
-If confidence low:
-→ hand off to human
 
 
-Your research mentions:
+AUTONOMOUS-SUPPORT-SYSTEM/
+│
+├── app.py                # FastAPI entry
+├── models/
+│   └── state.py         # Pydantic models
+├── agents/
+│   ├── router.py
+│   ├── knowledge.py
+│   ├── responder.py
+│   ├── critic.py
+│
+├── llm/
+│   └── hf_model.py
+│
+├── rag/
+│   ├── embed.py
+│   ├── retriever.py
+│
+├── db/
+│   └── memory.py
 
-resolution time ↓
-CSAT ↑
-efficiency ↑
-
-So track:
-
-response time
-number of critique iterations
-retrieval relevance
-success rate
 
 
-If you implement:
-
-multi-agent system
-critique loop
-SOP workflows
-tracing
-esclation agent 
-
+✔ Multi-agent pipeline
+✔ SOP-driven flow
+✔ Self-correction loop
+✔ Confidence gating
+✔ Async-ready backend
