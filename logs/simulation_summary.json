@@ -1,0 +1,8 @@
+{
+  "runs": 24,
+  "resolution_rate": 0.6666666666666666,
+  "escalation_rate": 0.3333333333333333,
+  "avg_latency_ms": 599.1659166666667,
+  "avg_revisions": 0.0,
+  "success_rate": 0.6666666666666666
+}

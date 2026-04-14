@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 1,
+        "category": "billing",
+        "title": "Billing Issue - payment declined",
+        "content": "BILLING ERROR: payment declined. System behavior inconsistent.",
+        "tags": [
+            "billing",
+            "payment_declined"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "billing",
+        "title": "Billing Issue - wrong billing amount",
+        "content": "BILLING ERROR: wrong billing amount. System behavior inconsistent.",
+        "tags": [
+            "billing",
+            "wrong_billing_amount"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "billing",
+        "title": "Billing Issue - wrong billing amount",
+        "content": "BILLING ERROR: wrong billing amount. System behavior inconsistent.",
+        "tags": [
+            "billing",
+            "wrong_billing_amount"
+        ]
+    },
+    {
+        "id": 4,
+        "category": "billing",
+        "title": "Billing Issue - charged twice",
+        "content": "User reports charged twice in the billing module. Needs immediate assistance.",
+        "tags": [
+            "billing",
+            "charged_twice"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "billing",
+        "title": "Billing Issue - refund not processed",
+        "content": "Facing issue: refund not processed. Occurs repeatedly when accessing billing features.",
+        "tags": [
+            "billing",
+            "refund_not_processed"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "billing",
+        "title": "Billing Issue - subscription not updating",
+        "content": "Facing issue: subscription not updating. Occurs repeatedly when accessing billing features.",
+        "tags": [
+            "billing",
+            "subscription_not_updating"
+        ]
+    },
+    {
+        "id": 7,
+        "category": "billing",
+        "title": "Billing Issue - invoice missing",
+        "content": "User reports invoice missing in the billing module. Needs immediate assistance.",
+        "tags": [
+            "billing",
+            "invoice_missing"
+        ]
+    },
+    {
+        "id": 8,
+        "category": "billing",
+        "title": "Billing Issue - refund not processed",
+        "content": "Customer experiencing refund not processed. Requires troubleshooting steps for billing.",
+        "tags": [
+            "billing",
+            "refund_not_processed"
+        ]
+    },
+    {
+        "id": 9,
+        "category": "billing",
+        "title": "Billing Issue - wrong billing amount",
+        "content": "Facing issue: wrong billing amount. Occurs repeatedly when accessing billing features.",
+        "tags": [
+            "billing",
+            "wrong_billing_amount"
+        ]
+    },
+    {
+        "id": 10,
+        "category": "billing",
+        "title": "Billing Issue - unexpected charge",
+        "content": "BILLING ERROR: unexpected charge. System behavior inconsistent.",
+        "tags": [
+            "billing",
+            "unexpected_charge"
+        ]
+    },
+    {
+        "id": 11,
+        "category": "billing",
+        "title": "Billing Issue - unexpected charge",
+        "content": "BILLING ERROR: unexpected charge. System behavior inconsistent.",
+        "tags": [
+            "billing",
+            "unexpected_charge"
+        ]
+    },
+    {
+        "id": 12,
+        "category": "billing",
+        "title": "Billing Issue - charged twice",
+        "content": "BILLING ERROR: charged twice. System behavior inconsistent.",
+        "tags": [
+            "billing",
+            "charged_twice"
+        ]
+    },
+    {
+        "id": 13,
+        "category": "billing",
+        "title": "Billing Issue - wrong billing amount",
+        "content": "Wrong billing amount problem detected. User unable to proceed in billing.",
+        "tags": [
+            "billing",
+            "wrong_billing_amount"
+        ]
+    },
+    {
+        "id": 14,
+        "category": "billing",
+        "title": "Billing Issue - refund not processed",
+        "content": "Customer experiencing refund not processed. Requires troubleshooting steps for billing.",
+        "tags": [
+            "billing",
+            "refund_not_processed"
+        ]
+    },
+    {
+        "id": 15,
+        "category": "billing",
+        "title": "Billing Issue - charged twice",
+        "content": "Charged twice problem detected. User unable to proceed in billing.",
+        "tags": [
+            "billing",
+            "charged_twice"
+        ]
+    },
+    {
+        "id": 16,
+        "category": "billing",
+        "title": "Billing Issue - invoice missing",
+        "content": "Facing issue: invoice missing. Occurs repeatedly when accessing billing features.",
+        "tags": [
+            "billing",
+            "invoice_missing"
+        ]
+    },
+    {
+        "id": 17,
+        "category": "billing",
+        "title": "Billing Issue - invoice missing",
+        "content": "User reports invoice missing in the billing module. Needs immediate assistance.",
+        "tags": [
+            "billing",
+            "invoice_missing"
+        ]
+    },
+    {
+        "id": 18,
+        "category": "billing",
+        "title": "Billing Issue - invoice missing",
+        "content": "Invoice missing problem detected. User unable to proceed in billing.",
+        "tags": [
+            "billing",
+            "invoice_missing"
+        ]
+    },
+    {
+        "id": 19,
+        "category": "billing",
+        "title": "Billing Issue - subscription not updating",
+        "content": "User reports subscription not updating in the billing module. Needs immediate assistance.",
+        "tags": [
+            "billing",
+            "subscription_not_updating"
+        ]
+    },
+    {
+        "id": 20,
+        "category": "billing",
+        "title": "Billing Issue - refund not processed",
+        "content": "User reports refund not processed in the billing module. Needs immediate assistance.",
+        "tags": [
+            "billing",
+            "refund_not_processed"
+        ]
+    },
+    {
+        "id": 21,
+        "category": "billing",
+        "title": "Billing Issue - invoice missing",
+        "content": "User reports invoice missing in the billing module. Needs immediate assistance.",
+        "tags": [
+            "billing",
+            "invoice_missing"
+        ]
+    },
+    {
+        "id": 22,
+        "category": "billing",
+        "title": "Billing Issue - subscription not updating",
+        "content": "Customer experiencing subscription not updating. Requires troubleshooting steps for billing.",
+        "tags": [
+            "billing",
+            "subscription_not_updating"
+        ]
+    },
+    {
+        "id": 23,
+        "category": "billing",
+        "title": "Billing Issue - payment declined",
+        "content": "Facing issue: payment declined. Occurs repeatedly when accessing billing features.",
+        "tags": [
+            "billing",
+            "payment_declined"
+        ]
+    },
+    {
+        "id": 24,
+        "category": "billing",
+        "title": "Billing Issue - subscription not updating",
+        "content": "User reports subscription not updating in the billing module. Needs immediate assistance.",
+        "tags": [
+            "billing",
+            "subscription_not_updating"
+        ]
+    },
+    {
+        "id": 25,
+        "category": "billing",
+        "title": "Billing Issue - subscription not updating",
+        "content": "BILLING ERROR: subscription not updating. System behavior inconsistent.",
+        "tags": [
+            "billing",
+            "subscription_not_updating"
+        ]
+    },
+    {
+        "id": 26,
+        "category": "billing",
+        "title": "Billing Issue - refund not processed",
+        "content": "Customer experiencing refund not processed. Requires troubleshooting steps for billing.",
+        "tags": [
+            "billing",
+            "refund_not_processed"
+        ]
+    },
+    {
+        "id": 27,
+        "category": "billing",
+        "title": "Billing Issue - unexpected charge",
+        "content": "Facing issue: unexpected charge. Occurs repeatedly when accessing billing features.",
+        "tags": [
+            "billing",
+            "unexpected_charge"
+        ]
+    },
+    {
+        "id": 28,
+        "category": "billing",
+        "title": "Billing Issue - unexpected charge",
+        "content": "BILLING ERROR: unexpected charge. System behavior inconsistent.",
+        "tags": [
+            "billing",
+            "unexpected_charge"
+        ]
+    },
+    {
+        "id": 29,
+        "category": "billing",
+        "title": "Billing Issue - wrong billing amount",
+        "content": "Facing issue: wrong billing amount. Occurs repeatedly when accessing billing features.",
+        "tags": [
+            "billing",
+            "wrong_billing_amount"
+        ]
+    },
+    {
+        "id": 30,
+        "category": "billing",
+        "title": "Billing Issue - charged twice",
+        "content": "BILLING ERROR: charged twice. System behavior inconsistent.",
+        "tags": [
+            "billing",
+            "charged_twice"
+        ]
+    },
+    {
+        "id": 31,
+        "category": "billing",
+        "title": "Billing Issue - subscription not updating",
+        "content": "BILLING ERROR: subscription not updating. System behavior inconsistent.",
+        "tags": [
+            "billing",
+            "subscription_not_updating"
+        ]
+    },
+    {
+        "id": 32,
+        "category": "billing",
+        "title": "Billing Issue - subscription not updating",
+        "content": "BILLING ERROR: subscription not updating. System behavior inconsistent.",
+        "tags": [
+            "billing",
+            "subscription_not_updating"
+        ]
+    },
+    {
+        "id": 33,
+        "category": "billing",
+        "title": "Billing Issue - refund not processed",
+        "content": "Customer experiencing refund not processed. Requires troubleshooting steps for billing.",
+        "tags": [
+            "billing",
+            "refund_not_processed"
+        ]
+    },
+    {
+        "id": 34,
+        "category": "billing",
+        "title": "Billing Issue - wrong billing amount",
+        "content": "Customer experiencing wrong billing amount. Requires troubleshooting steps for billing.",
+        "tags": [
+            "billing",
+            "wrong_billing_amount"
+        ]
+    },
+    {
+        "id": 35,
+        "category": "billing",
+        "title": "Billing Issue - charged twice",
+        "content": "Charged twice problem detected. User unable to proceed in billing.",
+        "tags": [
+            "billing",
+            "charged_twice"
+        ]
+    },
+    {
+        "id": 36,
+        "category": "billing",
+        "title": "Billing Issue - invoice missing",
+        "content": "Invoice missing problem detected. User unable to proceed in billing.",
+        "tags": [
+            "billing",
+            "invoice_missing"
+        ]
+    },
+    {
+        "id": 37,
+        "category": "billing",
+        "title": "Billing Issue - wrong billing amount",
+        "content": "Customer experiencing wrong billing amount. Requires troubleshooting steps for billing.",
+        "tags": [
+            "billing",
+            "wrong_billing_amount"
+        ]
+    },
+    {
+        "id": 38,
+        "category": "billing",
+        "title": "Billing Issue - subscription not updating",
+        "content": "Facing issue: subscription not updating. Occurs repeatedly when accessing billing features.",
+        "tags": [
+            "billing",
+            "subscription_not_updating"
+        ]
+    },
+    {
+        "id": 39,
+        "category": "billing",
+        "title": "Billing Issue - wrong billing amount",
+        "content": "Customer experiencing wrong billing amount. Requires troubleshooting steps for billing.",
+        "tags": [
+            "billing",
+            "wrong_billing_amount"
+        ]
+    },
+    {
+        "id": 40,
+        "category": "billing",
+        "title": "Billing Issue - unexpected charge",
+        "content": "User reports unexpected charge in the billing module. Needs immediate assistance.",
+        "tags": [
+            "billing",
+            "unexpected_charge"
+        ]
+    },
+    {
+        "id": 41,
+        "category": "billing",
+        "title": "Billing Issue - subscription not updating",
+        "content": "Subscription not updating problem detected. User unable to proceed in billing.",
+        "tags": [
+            "billing",
+            "subscription_not_updating"
+        ]
+    },
+    {
+        "id": 42,
+        "category": "billing",
+        "title": "Billing Issue - charged twice",
+        "content": "Charged twice problem detected. User unable to proceed in billing.",
+        "tags": [
+            "billing",
+            "charged_twice"
+        ]
+    },
+    {
+        "id": 43,
+        "category": "billing",
+        "title": "Billing Issue - charged twice",
+        "content": "Customer experiencing charged twice. Requires troubleshooting steps for billing.",
+        "tags": [
+            "billing",
+            "charged_twice"
+        ]
+    },
+    {
+        "id": 44,
+        "category": "billing",
+        "title": "Billing Issue - payment declined",
+        "content": "Facing issue: payment declined. Occurs repeatedly when accessing billing features.",
+        "tags": [
+            "billing",
+            "payment_declined"
+        ]
+    },
+    {
+        "id": 45,
+        "category": "billing",
+        "title": "Billing Issue - charged twice",
+        "content": "Customer experiencing charged twice. Requires troubleshooting steps for billing.",
+        "tags": [
+            "billing",
+            "charged_twice"
+        ]
+    },
+    {
+        "id": 46,
+        "category": "billing",
+        "title": "Billing Issue - unexpected charge",
+        "content": "Unexpected charge problem detected. User unable to proceed in billing.",
+        "tags": [
+            "billing",
+            "unexpected_charge"
+        ]
+    },
+    {
+        "id": 47,
+        "category": "billing",
+        "title": "Billing Issue - refund not processed",
+        "content": "BILLING ERROR: refund not processed. System behavior inconsistent.",
+        "tags": [
+            "billing",
+            "refund_not_processed"
+        ]
+    },
+    {
+        "id": 48,
+        "category": "billing",
+        "title": "Billing Issue - refund not processed",
+        "content": "User reports refund not processed in the billing module. Needs immediate assistance.",
+        "tags": [
+            "billing",
+            "refund_not_processed"
+        ]
+    },
+    {
+        "id": 49,
+        "category": "billing",
+        "title": "Billing Issue - wrong billing amount",
+        "content": "User reports wrong billing amount in the billing module. Needs immediate assistance.",
+        "tags": [
+            "billing",
+            "wrong_billing_amount"
+        ]
+    },
+    {
+        "id": 50,
+        "category": "billing",
+        "title": "Billing Issue - unexpected charge",
+        "content": "Customer experiencing unexpected charge. Requires troubleshooting steps for billing.",
+        "tags": [
+            "billing",
+            "unexpected_charge"
+        ]
+    },
+    {
+        "id": 51,
+        "category": "login",
+        "title": "Login Issue - OTP not received",
+        "content": "Facing issue: OTP not received. Occurs repeatedly when accessing login features.",
+        "tags": [
+            "login",
+            "OTP_not_received"
+        ]
+    },
+    {
+        "id": 52,
+        "category": "login",
+        "title": "Login Issue - invalid credentials",
+        "content": "LOGIN ERROR: invalid credentials. System behavior inconsistent.",
+        "tags": [
+            "login",
+            "invalid_credentials"
+        ]
+    },
+    {
+        "id": 53,
+        "category": "login",
+        "title": "Login Issue - session expired",
+        "content": "LOGIN ERROR: session expired. System behavior inconsistent.",
+        "tags": [
+            "login",
+            "session_expired"
+        ]
+    },
+    {
+        "id": 54,
+        "category": "login",
+        "title": "Login Issue - OTP not received",
+        "content": "Facing issue: OTP not received. Occurs repeatedly when accessing login features.",
+        "tags": [
+            "login",
+            "OTP_not_received"
+        ]
+    },
+    {
+        "id": 55,
+        "category": "login",
+        "title": "Login Issue - forgot password",
+        "content": "User reports forgot password in the login module. Needs immediate assistance.",
+        "tags": [
+            "login",
+            "forgot_password"
+        ]
+    },
+    {
+        "id": 56,
+        "category": "login",
+        "title": "Login Issue - forgot password",
+        "content": "User reports forgot password in the login module. Needs immediate assistance.",
+        "tags": [
+            "login",
+            "forgot_password"
+        ]
+    },
+    {
+        "id": 57,
+        "category": "login",
+        "title": "Login Issue - 2FA not working",
+        "content": "Customer experiencing 2FA not working. Requires troubleshooting steps for login.",
+        "tags": [
+            "login",
+            "2FA_not_working"
+        ]
+    },
+    {
+        "id": 58,
+        "category": "login",
+        "title": "Login Issue - session expired",
+        "content": "Session expired problem detected. User unable to proceed in login.",
+        "tags": [
+            "login",
+            "session_expired"
+        ]
+    },
+    {
+        "id": 59,
+        "category": "login",
+        "title": "Login Issue - invalid credentials",
+        "content": "Customer experiencing invalid credentials. Requires troubleshooting steps for login.",
+        "tags": [
+            "login",
+            "invalid_credentials"
+        ]
+    },
+    {
+        "id": 60,
+        "category": "login",
+        "title": "Login Issue - account locked",
+        "content": "User reports account locked in the login module. Needs immediate assistance.",
+        "tags": [
+            "login",
+            "account_locked"
+        ]
+    },
+    {
+        "id": 61,
+        "category": "login",
+        "title": "Login Issue - session expired",
+        "content": "User reports session expired in the login module. Needs immediate assistance.",
+        "tags": [
+            "login",
+            "session_expired"
+        ]
+    },
+    {
+        "id": 62,
+        "category": "login",
+        "title": "Login Issue - account locked",
+        "content": "User reports account locked in the login module. Needs immediate assistance.",
+        "tags": [
+            "login",
+            "account_locked"
+        ]
+    },
+    {
+        "id": 63,
+        "category": "login",
+        "title": "Login Issue - OTP not received",
+        "content": "Facing issue: OTP not received. Occurs repeatedly when accessing login features.",
+        "tags": [
+            "login",
+            "OTP_not_received"
+        ]
+    },
+    {
+        "id": 64,
+        "category": "login",
+        "title": "Login Issue - invalid credentials",
+        "content": "Invalid credentials problem detected. User unable to proceed in login.",
+        "tags": [
+            "login",
+            "invalid_credentials"
+        ]
+    },
+    {
+        "id": 65,
+        "category": "login",
+        "title": "Login Issue - invalid credentials",
+        "content": "User reports invalid credentials in the login module. Needs immediate assistance.",
+        "tags": [
+            "login",
+            "invalid_credentials"
+        ]
+    },
+    {
+        "id": 66,
+        "category": "login",
+        "title": "Login Issue - 2FA not working",
+        "content": "Customer experiencing 2FA not working. Requires troubleshooting steps for login.",
+        "tags": [
+            "login",
+            "2FA_not_working"
+        ]
+    },
+    {
+        "id": 67,
+        "category": "login",
+        "title": "Login Issue - account locked",
+        "content": "User reports account locked in the login module. Needs immediate assistance.",
+        "tags": [
+            "login",
+            "account_locked"
+        ]
+    },
+    {
+        "id": 68,
+        "category": "login",
+        "title": "Login Issue - login loop issue",
+        "content": "LOGIN ERROR: login loop issue. System behavior inconsistent.",
+        "tags": [
+            "login",
+            "login_loop_issue"
+        ]
+    },
+    {
+        "id": 69,
+        "category": "login",
+        "title": "Login Issue - session expired",
+        "content": "Facing issue: session expired. Occurs repeatedly when accessing login features.",
+        "tags": [
+            "login",
+            "session_expired"
+        ]
+    },
+    {
+        "id": 70,
+        "category": "login",
+        "title": "Login Issue - invalid credentials",
+        "content": "Facing issue: invalid credentials. Occurs repeatedly when accessing login features.",
+        "tags": [
+            "login",
+            "invalid_credentials"
+        ]
+    },
+    {
+        "id": 71,
+        "category": "login",
+        "title": "Login Issue - login loop issue",
+        "content": "User reports login loop issue in the login module. Needs immediate assistance.",
+        "tags": [
+            "login",
+            "login_loop_issue"
+        ]
+    },
+    {
+        "id": 72,
+        "category": "login",
+        "title": "Login Issue - account locked",
+        "content": "Customer experiencing account locked. Requires troubleshooting steps for login.",
+        "tags": [
+            "login",
+            "account_locked"
+        ]
+    },
+    {
+        "id": 73,
+        "category": "login",
+        "title": "Login Issue - login loop issue",
+        "content": "Facing issue: login loop issue. Occurs repeatedly when accessing login features.",
+        "tags": [
+            "login",
+            "login_loop_issue"
+        ]
+    },
+    {
+        "id": 74,
+        "category": "login",
+        "title": "Login Issue - login loop issue",
+        "content": "LOGIN ERROR: login loop issue. System behavior inconsistent.",
+        "tags": [
+            "login",
+            "login_loop_issue"
+        ]
+    },
+    {
+        "id": 75,
+        "category": "login",
+        "title": "Login Issue - OTP not received",
+        "content": "Customer experiencing OTP not received. Requires troubleshooting steps for login.",
+        "tags": [
+            "login",
+            "OTP_not_received"
+        ]
+    },
+    {
+        "id": 76,
+        "category": "login",
+        "title": "Login Issue - session expired",
+        "content": "User reports session expired in the login module. Needs immediate assistance.",
+        "tags": [
+            "login",
+            "session_expired"
+        ]
+    },
+    {
+        "id": 77,
+        "category": "login",
+        "title": "Login Issue - login loop issue",
+        "content": "Facing issue: login loop issue. Occurs repeatedly when accessing login features.",
+        "tags": [
+            "login",
+            "login_loop_issue"
+        ]
+    },
+    {
+        "id": 78,
+        "category": "login",
+        "title": "Login Issue - account locked",
+        "content": "LOGIN ERROR: account locked. System behavior inconsistent.",
+        "tags": [
+            "login",
+            "account_locked"
+        ]
+    },
+    {
+        "id": 79,
+        "category": "login",
+        "title": "Login Issue - invalid credentials",
+        "content": "Invalid credentials problem detected. User unable to proceed in login.",
+        "tags": [
+            "login",
+            "invalid_credentials"
+        ]
+    },
+    {
+        "id": 80,
+        "category": "login",
+        "title": "Login Issue - account locked",
+        "content": "User reports account locked in the login module. Needs immediate assistance.",
+        "tags": [
+            "login",
+            "account_locked"
+        ]
+    },
+    {
+        "id": 81,
+        "category": "login",
+        "title": "Login Issue - forgot password",
+        "content": "Forgot password problem detected. User unable to proceed in login.",
+        "tags": [
+            "login",
+            "forgot_password"
+        ]
+    },
+    {
+        "id": 82,
+        "category": "login",
+        "title": "Login Issue - session expired",
+        "content": "Session expired problem detected. User unable to proceed in login.",
+        "tags": [
+            "login",
+            "session_expired"
+        ]
+    },
+    {
+        "id": 83,
+        "category": "login",
+        "title": "Login Issue - OTP not received",
+        "content": "Otp not received problem detected. User unable to proceed in login.",
+        "tags": [
+            "login",
+            "OTP_not_received"
+        ]
+    },
+    {
+        "id": 84,
+        "category": "login",
+        "title": "Login Issue - forgot password",
+        "content": "LOGIN ERROR: forgot password. System behavior inconsistent.",
+        "tags": [
+            "login",
+            "forgot_password"
+        ]
+    },
+    {
+        "id": 85,
+        "category": "login",
+        "title": "Login Issue - 2FA not working",
+        "content": "Customer experiencing 2FA not working. Requires troubleshooting steps for login.",
+        "tags": [
+            "login",
+            "2FA_not_working"
+        ]
+    },
+    {
+        "id": 86,
+        "category": "login",
+        "title": "Login Issue - session expired",
+        "content": "Facing issue: session expired. Occurs repeatedly when accessing login features.",
+        "tags": [
+            "login",
+            "session_expired"
+        ]
+    },
+    {
+        "id": 87,
+        "category": "login",
+        "title": "Login Issue - account locked",
+        "content": "Facing issue: account locked. Occurs repeatedly when accessing login features.",
+        "tags": [
+            "login",
+            "account_locked"
+        ]
+    },
+    {
+        "id": 88,
+        "category": "login",
+        "title": "Login Issue - OTP not received",
+        "content": "LOGIN ERROR: OTP not received. System behavior inconsistent.",
+        "tags": [
+            "login",
+            "OTP_not_received"
+        ]
+    },
+    {
+        "id": 89,
+        "category": "login",
+        "title": "Login Issue - login loop issue",
+        "content": "Customer experiencing login loop issue. Requires troubleshooting steps for login.",
+        "tags": [
+            "login",
+            "login_loop_issue"
+        ]
+    },
+    {
+        "id": 90,
+        "category": "login",
+        "title": "Login Issue - invalid credentials",
+        "content": "Customer experiencing invalid credentials. Requires troubleshooting steps for login.",
+        "tags": [
+            "login",
+            "invalid_credentials"
+        ]
+    },
+    {
+        "id": 91,
+        "category": "login",
+        "title": "Login Issue - invalid credentials",
+        "content": "Customer experiencing invalid credentials. Requires troubleshooting steps for login.",
+        "tags": [
+            "login",
+            "invalid_credentials"
+        ]
+    },
+    {
+        "id": 92,
+        "category": "login",
+        "title": "Login Issue - session expired",
+        "content": "Customer experiencing session expired. Requires troubleshooting steps for login.",
+        "tags": [
+            "login",
+            "session_expired"
+        ]
+    },
+    {
+        "id": 93,
+        "category": "login",
+        "title": "Login Issue - invalid credentials",
+        "content": "LOGIN ERROR: invalid credentials. System behavior inconsistent.",
+        "tags": [
+            "login",
+            "invalid_credentials"
+        ]
+    },
+    {
+        "id": 94,
+        "category": "login",
+        "title": "Login Issue - 2FA not working",
+        "content": "Customer experiencing 2FA not working. Requires troubleshooting steps for login.",
+        "tags": [
+            "login",
+            "2FA_not_working"
+        ]
+    },
+    {
+        "id": 95,
+        "category": "login",
+        "title": "Login Issue - account locked",
+        "content": "Customer experiencing account locked. Requires troubleshooting steps for login.",
+        "tags": [
+            "login",
+            "account_locked"
+        ]
+    },
+    {
+        "id": 96,
+        "category": "login",
+        "title": "Login Issue - OTP not received",
+        "content": "LOGIN ERROR: OTP not received. System behavior inconsistent.",
+        "tags": [
+            "login",
+            "OTP_not_received"
+        ]
+    },
+    {
+        "id": 97,
+        "category": "login",
+        "title": "Login Issue - session expired",
+        "content": "User reports session expired in the login module. Needs immediate assistance.",
+        "tags": [
+            "login",
+            "session_expired"
+        ]
+    },
+    {
+        "id": 98,
+        "category": "login",
+        "title": "Login Issue - account locked",
+        "content": "LOGIN ERROR: account locked. System behavior inconsistent.",
+        "tags": [
+            "login",
+            "account_locked"
+        ]
+    },
+    {
+        "id": 99,
+        "category": "login",
+        "title": "Login Issue - session expired",
+        "content": "User reports session expired in the login module. Needs immediate assistance.",
+        "tags": [
+            "login",
+            "session_expired"
+        ]
+    },
+    {
+        "id": 100,
+        "category": "login",
+        "title": "Login Issue - account locked",
+        "content": "Customer experiencing account locked. Requires troubleshooting steps for login.",
+        "tags": [
+            "login",
+            "account_locked"
+        ]
+    },
+    {
+        "id": 101,
+        "category": "api",
+        "title": "Api Issue - authentication failed",
+        "content": "Customer experiencing authentication failed. Requires troubleshooting steps for api.",
+        "tags": [
+            "api",
+            "authentication_failed"
+        ]
+    },
+    {
+        "id": 102,
+        "category": "api",
+        "title": "Api Issue - webhook failure",
+        "content": "Webhook failure problem detected. User unable to proceed in api.",
+        "tags": [
+            "api",
+            "webhook_failure"
+        ]
+    },
+    {
+        "id": 103,
+        "category": "api",
+        "title": "Api Issue - invalid API key",
+        "content": "API ERROR: invalid API key. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "invalid_API_key"
+        ]
+    },
+    {
+        "id": 104,
+        "category": "api",
+        "title": "Api Issue - endpoint not responding",
+        "content": "Facing issue: endpoint not responding. Occurs repeatedly when accessing api features.",
+        "tags": [
+            "api",
+            "endpoint_not_responding"
+        ]
+    },
+    {
+        "id": 105,
+        "category": "api",
+        "title": "Api Issue - invalid API key",
+        "content": "API ERROR: invalid API key. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "invalid_API_key"
+        ]
+    },
+    {
+        "id": 106,
+        "category": "api",
+        "title": "Api Issue - endpoint not responding",
+        "content": "Facing issue: endpoint not responding. Occurs repeatedly when accessing api features.",
+        "tags": [
+            "api",
+            "endpoint_not_responding"
+        ]
+    },
+    {
+        "id": 107,
+        "category": "api",
+        "title": "Api Issue - webhook failure",
+        "content": "User reports webhook failure in the api module. Needs immediate assistance.",
+        "tags": [
+            "api",
+            "webhook_failure"
+        ]
+    },
+    {
+        "id": 108,
+        "category": "api",
+        "title": "Api Issue - invalid API key",
+        "content": "Customer experiencing invalid API key. Requires troubleshooting steps for api.",
+        "tags": [
+            "api",
+            "invalid_API_key"
+        ]
+    },
+    {
+        "id": 109,
+        "category": "api",
+        "title": "Api Issue - invalid API key",
+        "content": "API ERROR: invalid API key. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "invalid_API_key"
+        ]
+    },
+    {
+        "id": 110,
+        "category": "api",
+        "title": "Api Issue - webhook failure",
+        "content": "Webhook failure problem detected. User unable to proceed in api.",
+        "tags": [
+            "api",
+            "webhook_failure"
+        ]
+    },
+    {
+        "id": 111,
+        "category": "api",
+        "title": "Api Issue - authentication failed",
+        "content": "Authentication failed problem detected. User unable to proceed in api.",
+        "tags": [
+            "api",
+            "authentication_failed"
+        ]
+    },
+    {
+        "id": 112,
+        "category": "api",
+        "title": "Api Issue - endpoint not responding",
+        "content": "API ERROR: endpoint not responding. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "endpoint_not_responding"
+        ]
+    },
+    {
+        "id": 113,
+        "category": "api",
+        "title": "Api Issue - endpoint not responding",
+        "content": "Facing issue: endpoint not responding. Occurs repeatedly when accessing api features.",
+        "tags": [
+            "api",
+            "endpoint_not_responding"
+        ]
+    },
+    {
+        "id": 114,
+        "category": "api",
+        "title": "Api Issue - webhook failure",
+        "content": "User reports webhook failure in the api module. Needs immediate assistance.",
+        "tags": [
+            "api",
+            "webhook_failure"
+        ]
+    },
+    {
+        "id": 115,
+        "category": "api",
+        "title": "Api Issue - incorrect response format",
+        "content": "Facing issue: incorrect response format. Occurs repeatedly when accessing api features.",
+        "tags": [
+            "api",
+            "incorrect_response_format"
+        ]
+    },
+    {
+        "id": 116,
+        "category": "api",
+        "title": "Api Issue - incorrect response format",
+        "content": "API ERROR: incorrect response format. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "incorrect_response_format"
+        ]
+    },
+    {
+        "id": 117,
+        "category": "api",
+        "title": "Api Issue - incorrect response format",
+        "content": "API ERROR: incorrect response format. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "incorrect_response_format"
+        ]
+    },
+    {
+        "id": 118,
+        "category": "api",
+        "title": "Api Issue - incorrect response format",
+        "content": "API ERROR: incorrect response format. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "incorrect_response_format"
+        ]
+    },
+    {
+        "id": 119,
+        "category": "api",
+        "title": "Api Issue - invalid API key",
+        "content": "API ERROR: invalid API key. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "invalid_API_key"
+        ]
+    },
+    {
+        "id": 120,
+        "category": "api",
+        "title": "Api Issue - invalid API key",
+        "content": "Invalid api key problem detected. User unable to proceed in api.",
+        "tags": [
+            "api",
+            "invalid_API_key"
+        ]
+    },
+    {
+        "id": 121,
+        "category": "api",
+        "title": "Api Issue - incorrect response format",
+        "content": "User reports incorrect response format in the api module. Needs immediate assistance.",
+        "tags": [
+            "api",
+            "incorrect_response_format"
+        ]
+    },
+    {
+        "id": 122,
+        "category": "api",
+        "title": "Api Issue - timeout error",
+        "content": "Customer experiencing timeout error. Requires troubleshooting steps for api.",
+        "tags": [
+            "api",
+            "timeout_error"
+        ]
+    },
+    {
+        "id": 123,
+        "category": "api",
+        "title": "Api Issue - webhook failure",
+        "content": "Facing issue: webhook failure. Occurs repeatedly when accessing api features.",
+        "tags": [
+            "api",
+            "webhook_failure"
+        ]
+    },
+    {
+        "id": 124,
+        "category": "api",
+        "title": "Api Issue - incorrect response format",
+        "content": "Incorrect response format problem detected. User unable to proceed in api.",
+        "tags": [
+            "api",
+            "incorrect_response_format"
+        ]
+    },
+    {
+        "id": 125,
+        "category": "api",
+        "title": "Api Issue - endpoint not responding",
+        "content": "Endpoint not responding problem detected. User unable to proceed in api.",
+        "tags": [
+            "api",
+            "endpoint_not_responding"
+        ]
+    },
+    {
+        "id": 126,
+        "category": "api",
+        "title": "Api Issue - incorrect response format",
+        "content": "User reports incorrect response format in the api module. Needs immediate assistance.",
+        "tags": [
+            "api",
+            "incorrect_response_format"
+        ]
+    },
+    {
+        "id": 127,
+        "category": "api",
+        "title": "Api Issue - incorrect response format",
+        "content": "User reports incorrect response format in the api module. Needs immediate assistance.",
+        "tags": [
+            "api",
+            "incorrect_response_format"
+        ]
+    },
+    {
+        "id": 128,
+        "category": "api",
+        "title": "Api Issue - webhook failure",
+        "content": "User reports webhook failure in the api module. Needs immediate assistance.",
+        "tags": [
+            "api",
+            "webhook_failure"
+        ]
+    },
+    {
+        "id": 129,
+        "category": "api",
+        "title": "Api Issue - incorrect response format",
+        "content": "Customer experiencing incorrect response format. Requires troubleshooting steps for api.",
+        "tags": [
+            "api",
+            "incorrect_response_format"
+        ]
+    },
+    {
+        "id": 130,
+        "category": "api",
+        "title": "Api Issue - authentication failed",
+        "content": "Facing issue: authentication failed. Occurs repeatedly when accessing api features.",
+        "tags": [
+            "api",
+            "authentication_failed"
+        ]
+    },
+    {
+        "id": 131,
+        "category": "api",
+        "title": "Api Issue - invalid API key",
+        "content": "Facing issue: invalid API key. Occurs repeatedly when accessing api features.",
+        "tags": [
+            "api",
+            "invalid_API_key"
+        ]
+    },
+    {
+        "id": 132,
+        "category": "api",
+        "title": "Api Issue - invalid API key",
+        "content": "User reports invalid API key in the api module. Needs immediate assistance.",
+        "tags": [
+            "api",
+            "invalid_API_key"
+        ]
+    },
+    {
+        "id": 133,
+        "category": "api",
+        "title": "Api Issue - authentication failed",
+        "content": "Facing issue: authentication failed. Occurs repeatedly when accessing api features.",
+        "tags": [
+            "api",
+            "authentication_failed"
+        ]
+    },
+    {
+        "id": 134,
+        "category": "api",
+        "title": "Api Issue - authentication failed",
+        "content": "API ERROR: authentication failed. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "authentication_failed"
+        ]
+    },
+    {
+        "id": 135,
+        "category": "api",
+        "title": "Api Issue - authentication failed",
+        "content": "User reports authentication failed in the api module. Needs immediate assistance.",
+        "tags": [
+            "api",
+            "authentication_failed"
+        ]
+    },
+    {
+        "id": 136,
+        "category": "api",
+        "title": "Api Issue - webhook failure",
+        "content": "Facing issue: webhook failure. Occurs repeatedly when accessing api features.",
+        "tags": [
+            "api",
+            "webhook_failure"
+        ]
+    },
+    {
+        "id": 137,
+        "category": "api",
+        "title": "Api Issue - authentication failed",
+        "content": "API ERROR: authentication failed. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "authentication_failed"
+        ]
+    },
+    {
+        "id": 138,
+        "category": "api",
+        "title": "Api Issue - endpoint not responding",
+        "content": "API ERROR: endpoint not responding. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "endpoint_not_responding"
+        ]
+    },
+    {
+        "id": 139,
+        "category": "api",
+        "title": "Api Issue - authentication failed",
+        "content": "Authentication failed problem detected. User unable to proceed in api.",
+        "tags": [
+            "api",
+            "authentication_failed"
+        ]
+    },
+    {
+        "id": 140,
+        "category": "api",
+        "title": "Api Issue - timeout error",
+        "content": "User reports timeout error in the api module. Needs immediate assistance.",
+        "tags": [
+            "api",
+            "timeout_error"
+        ]
+    },
+    {
+        "id": 141,
+        "category": "api",
+        "title": "Api Issue - incorrect response format",
+        "content": "API ERROR: incorrect response format. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "incorrect_response_format"
+        ]
+    },
+    {
+        "id": 142,
+        "category": "api",
+        "title": "Api Issue - webhook failure",
+        "content": "Facing issue: webhook failure. Occurs repeatedly when accessing api features.",
+        "tags": [
+            "api",
+            "webhook_failure"
+        ]
+    },
+    {
+        "id": 143,
+        "category": "api",
+        "title": "Api Issue - rate limit exceeded",
+        "content": "Rate limit exceeded problem detected. User unable to proceed in api.",
+        "tags": [
+            "api",
+            "rate_limit_exceeded"
+        ]
+    },
+    {
+        "id": 144,
+        "category": "api",
+        "title": "Api Issue - incorrect response format",
+        "content": "API ERROR: incorrect response format. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "incorrect_response_format"
+        ]
+    },
+    {
+        "id": 145,
+        "category": "api",
+        "title": "Api Issue - incorrect response format",
+        "content": "Facing issue: incorrect response format. Occurs repeatedly when accessing api features.",
+        "tags": [
+            "api",
+            "incorrect_response_format"
+        ]
+    },
+    {
+        "id": 146,
+        "category": "api",
+        "title": "Api Issue - timeout error",
+        "content": "API ERROR: timeout error. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "timeout_error"
+        ]
+    },
+    {
+        "id": 147,
+        "category": "api",
+        "title": "Api Issue - endpoint not responding",
+        "content": "API ERROR: endpoint not responding. System behavior inconsistent.",
+        "tags": [
+            "api",
+            "endpoint_not_responding"
+        ]
+    },
+    {
+        "id": 148,
+        "category": "api",
+        "title": "Api Issue - timeout error",
+        "content": "Timeout error problem detected. User unable to proceed in api.",
+        "tags": [
+            "api",
+            "timeout_error"
+        ]
+    },
+    {
+        "id": 149,
+        "category": "api",
+        "title": "Api Issue - webhook failure",
+        "content": "Facing issue: webhook failure. Occurs repeatedly when accessing api features.",
+        "tags": [
+            "api",
+            "webhook_failure"
+        ]
+    },
+    {
+        "id": 150,
+        "category": "api",
+        "title": "Api Issue - incorrect response format",
+        "content": "Incorrect response format problem detected. User unable to proceed in api.",
+        "tags": [
+            "api",
+            "incorrect_response_format"
+        ]
+    },
+    {
+        "id": 151,
+        "category": "onboarding",
+        "title": "Onboarding Issue - missing onboarding guide",
+        "content": "User reports missing onboarding guide in the onboarding module. Needs immediate assistance.",
+        "tags": [
+            "onboarding",
+            "missing_onboarding_guide"
+        ]
+    },
+    {
+        "id": 152,
+        "category": "onboarding",
+        "title": "Onboarding Issue - initial setup error",
+        "content": "ONBOARDING ERROR: initial setup error. System behavior inconsistent.",
+        "tags": [
+            "onboarding",
+            "initial_setup_error"
+        ]
+    },
+    {
+        "id": 153,
+        "category": "onboarding",
+        "title": "Onboarding Issue - initial setup error",
+        "content": "ONBOARDING ERROR: initial setup error. System behavior inconsistent.",
+        "tags": [
+            "onboarding",
+            "initial_setup_error"
+        ]
+    },
+    {
+        "id": 154,
+        "category": "onboarding",
+        "title": "Onboarding Issue - profile setup incomplete",
+        "content": "Customer experiencing profile setup incomplete. Requires troubleshooting steps for onboarding.",
+        "tags": [
+            "onboarding",
+            "profile_setup_incomplete"
+        ]
+    },
+    {
+        "id": 155,
+        "category": "onboarding",
+        "title": "Onboarding Issue - initial setup error",
+        "content": "Customer experiencing initial setup error. Requires troubleshooting steps for onboarding.",
+        "tags": [
+            "onboarding",
+            "initial_setup_error"
+        ]
+    },
+    {
+        "id": 156,
+        "category": "onboarding",
+        "title": "Onboarding Issue - profile setup incomplete",
+        "content": "Facing issue: profile setup incomplete. Occurs repeatedly when accessing onboarding features.",
+        "tags": [
+            "onboarding",
+            "profile_setup_incomplete"
+        ]
+    },
+    {
+        "id": 157,
+        "category": "onboarding",
+        "title": "Onboarding Issue - email verification failed",
+        "content": "Email verification failed problem detected. User unable to proceed in onboarding.",
+        "tags": [
+            "onboarding",
+            "email_verification_failed"
+        ]
+    },
+    {
+        "id": 158,
+        "category": "onboarding",
+        "title": "Onboarding Issue - unable to sign up",
+        "content": "Unable to sign up problem detected. User unable to proceed in onboarding.",
+        "tags": [
+            "onboarding",
+            "unable_to_sign_up"
+        ]
+    },
+    {
+        "id": 159,
+        "category": "onboarding",
+        "title": "Onboarding Issue - initial setup error",
+        "content": "Initial setup error problem detected. User unable to proceed in onboarding.",
+        "tags": [
+            "onboarding",
+            "initial_setup_error"
+        ]
+    },
+    {
+        "id": 160,
+        "category": "onboarding",
+        "title": "Onboarding Issue - profile setup incomplete",
+        "content": "Customer experiencing profile setup incomplete. Requires troubleshooting steps for onboarding.",
+        "tags": [
+            "onboarding",
+            "profile_setup_incomplete"
+        ]
+    },
+    {
+        "id": 161,
+        "category": "onboarding",
+        "title": "Onboarding Issue - confusing UI steps",
+        "content": "User reports confusing UI steps in the onboarding module. Needs immediate assistance.",
+        "tags": [
+            "onboarding",
+            "confusing_UI_steps"
+        ]
+    },
+    {
+        "id": 162,
+        "category": "onboarding",
+        "title": "Onboarding Issue - profile setup incomplete",
+        "content": "Customer experiencing profile setup incomplete. Requires troubleshooting steps for onboarding.",
+        "tags": [
+            "onboarding",
+            "profile_setup_incomplete"
+        ]
+    },
+    {
+        "id": 163,
+        "category": "onboarding",
+        "title": "Onboarding Issue - confusing UI steps",
+        "content": "ONBOARDING ERROR: confusing UI steps. System behavior inconsistent.",
+        "tags": [
+            "onboarding",
+            "confusing_UI_steps"
+        ]
+    },
+    {
+        "id": 164,
+        "category": "onboarding",
+        "title": "Onboarding Issue - getting started help",
+        "content": "Getting started help problem detected. User unable to proceed in onboarding.",
+        "tags": [
+            "onboarding",
+            "getting_started_help"
+        ]
+    },
+    {
+        "id": 165,
+        "category": "onboarding",
+        "title": "Onboarding Issue - missing onboarding guide",
+        "content": "ONBOARDING ERROR: missing onboarding guide. System behavior inconsistent.",
+        "tags": [
+            "onboarding",
+            "missing_onboarding_guide"
+        ]
+    },
+    {
+        "id": 166,
+        "category": "onboarding",
+        "title": "Onboarding Issue - initial setup error",
+        "content": "Customer experiencing initial setup error. Requires troubleshooting steps for onboarding.",
+        "tags": [
+            "onboarding",
+            "initial_setup_error"
+        ]
+    },
+    {
+        "id": 167,
+        "category": "onboarding",
+        "title": "Onboarding Issue - missing onboarding guide",
+        "content": "Customer experiencing missing onboarding guide. Requires troubleshooting steps for onboarding.",
+        "tags": [
+            "onboarding",
+            "missing_onboarding_guide"
+        ]
+    },
+    {
+        "id": 168,
+        "category": "onboarding",
+        "title": "Onboarding Issue - getting started help",
+        "content": "Customer experiencing getting started help. Requires troubleshooting steps for onboarding.",
+        "tags": [
+            "onboarding",
+            "getting_started_help"
+        ]
+    },
+    {
+        "id": 169,
+        "category": "onboarding",
+        "title": "Onboarding Issue - email verification failed",
+        "content": "Email verification failed problem detected. User unable to proceed in onboarding.",
+        "tags": [
+            "onboarding",
+            "email_verification_failed"
+        ]
+    },
+    {
+        "id": 170,
+        "category": "onboarding",
+        "title": "Onboarding Issue - email verification failed",
+        "content": "User reports email verification failed in the onboarding module. Needs immediate assistance.",
+        "tags": [
+            "onboarding",
+            "email_verification_failed"
+        ]
+    },
+    {
+        "id": 171,
+        "category": "onboarding",
+        "title": "Onboarding Issue - unable to sign up",
+        "content": "User reports unable to sign up in the onboarding module. Needs immediate assistance.",
+        "tags": [
+            "onboarding",
+            "unable_to_sign_up"
+        ]
+    },
+    {
+        "id": 172,
+        "category": "onboarding",
+        "title": "Onboarding Issue - unable to sign up",
+        "content": "Facing issue: unable to sign up. Occurs repeatedly when accessing onboarding features.",
+        "tags": [
+            "onboarding",
+            "unable_to_sign_up"
+        ]
+    },
+    {
+        "id": 173,
+        "category": "onboarding",
+        "title": "Onboarding Issue - initial setup error",
+        "content": "ONBOARDING ERROR: initial setup error. System behavior inconsistent.",
+        "tags": [
+            "onboarding",
+            "initial_setup_error"
+        ]
+    },
+    {
+        "id": 174,
+        "category": "onboarding",
+        "title": "Onboarding Issue - initial setup error",
+        "content": "Initial setup error problem detected. User unable to proceed in onboarding.",
+        "tags": [
+            "onboarding",
+            "initial_setup_error"
+        ]
+    },
+    {
+        "id": 175,
+        "category": "onboarding",
+        "title": "Onboarding Issue - getting started help",
+        "content": "User reports getting started help in the onboarding module. Needs immediate assistance.",
+        "tags": [
+            "onboarding",
+            "getting_started_help"
+        ]
+    },
+    {
+        "id": 176,
+        "category": "onboarding",
+        "title": "Onboarding Issue - email verification failed",
+        "content": "Email verification failed problem detected. User unable to proceed in onboarding.",
+        "tags": [
+            "onboarding",
+            "email_verification_failed"
+        ]
+    },
+    {
+        "id": 177,
+        "category": "onboarding",
+        "title": "Onboarding Issue - profile setup incomplete",
+        "content": "Customer experiencing profile setup incomplete. Requires troubleshooting steps for onboarding.",
+        "tags": [
+            "onboarding",
+            "profile_setup_incomplete"
+        ]
+    },
+    {
+        "id": 178,
+        "category": "onboarding",
+        "title": "Onboarding Issue - missing onboarding guide",
+        "content": "Missing onboarding guide problem detected. User unable to proceed in onboarding.",
+        "tags": [
+            "onboarding",
+            "missing_onboarding_guide"
+        ]
+    },
+    {
+        "id": 179,
+        "category": "onboarding",
+        "title": "Onboarding Issue - unable to sign up",
+        "content": "ONBOARDING ERROR: unable to sign up. System behavior inconsistent.",
+        "tags": [
+            "onboarding",
+            "unable_to_sign_up"
+        ]
+    },
+    {
+        "id": 180,
+        "category": "onboarding",
+        "title": "Onboarding Issue - initial setup error",
+        "content": "Initial setup error problem detected. User unable to proceed in onboarding.",
+        "tags": [
+            "onboarding",
+            "initial_setup_error"
+        ]
+    },
+    {
+        "id": 181,
+        "category": "onboarding",
+        "title": "Onboarding Issue - profile setup incomplete",
+        "content": "Facing issue: profile setup incomplete. Occurs repeatedly when accessing onboarding features.",
+        "tags": [
+            "onboarding",
+            "profile_setup_incomplete"
+        ]
+    },
+    {
+        "id": 182,
+        "category": "onboarding",
+        "title": "Onboarding Issue - missing onboarding guide",
+        "content": "User reports missing onboarding guide in the onboarding module. Needs immediate assistance.",
+        "tags": [
+            "onboarding",
+            "missing_onboarding_guide"
+        ]
+    },
+    {
+        "id": 183,
+        "category": "onboarding",
+        "title": "Onboarding Issue - unable to sign up",
+        "content": "Unable to sign up problem detected. User unable to proceed in onboarding.",
+        "tags": [
+            "onboarding",
+            "unable_to_sign_up"
+        ]
+    },
+    {
+        "id": 184,
+        "category": "onboarding",
+        "title": "Onboarding Issue - missing onboarding guide",
+        "content": "Customer experiencing missing onboarding guide. Requires troubleshooting steps for onboarding.",
+        "tags": [
+            "onboarding",
+            "missing_onboarding_guide"
+        ]
+    },
+    {
+        "id": 185,
+        "category": "onboarding",
+        "title": "Onboarding Issue - profile setup incomplete",
+        "content": "Profile setup incomplete problem detected. User unable to proceed in onboarding.",
+        "tags": [
+            "onboarding",
+            "profile_setup_incomplete"
+        ]
+    },
+    {
+        "id": 186,
+        "category": "onboarding",
+        "title": "Onboarding Issue - profile setup incomplete",
+        "content": "Customer experiencing profile setup incomplete. Requires troubleshooting steps for onboarding.",
+        "tags": [
+            "onboarding",
+            "profile_setup_incomplete"
+        ]
+    },
+    {
+        "id": 187,
+        "category": "onboarding",
+        "title": "Onboarding Issue - profile setup incomplete",
+        "content": "Customer experiencing profile setup incomplete. Requires troubleshooting steps for onboarding.",
+        "tags": [
+            "onboarding",
+            "profile_setup_incomplete"
+        ]
+    },
+    {
+        "id": 188,
+        "category": "onboarding",
+        "title": "Onboarding Issue - unable to sign up",
+        "content": "Unable to sign up problem detected. User unable to proceed in onboarding.",
+        "tags": [
+            "onboarding",
+            "unable_to_sign_up"
+        ]
+    },
+    {
+        "id": 189,
+        "category": "onboarding",
+        "title": "Onboarding Issue - getting started help",
+        "content": "Customer experiencing getting started help. Requires troubleshooting steps for onboarding.",
+        "tags": [
+            "onboarding",
+            "getting_started_help"
+        ]
+    },
+    {
+        "id": 190,
+        "category": "onboarding",
+        "title": "Onboarding Issue - missing onboarding guide",
+        "content": "Customer experiencing missing onboarding guide. Requires troubleshooting steps for onboarding.",
+        "tags": [
+            "onboarding",
+            "missing_onboarding_guide"
+        ]
+    },
+    {
+        "id": 191,
+        "category": "onboarding",
+        "title": "Onboarding Issue - confusing UI steps",
+        "content": "ONBOARDING ERROR: confusing UI steps. System behavior inconsistent.",
+        "tags": [
+            "onboarding",
+            "confusing_UI_steps"
+        ]
+    },
+    {
+        "id": 192,
+        "category": "onboarding",
+        "title": "Onboarding Issue - getting started help",
+        "content": "User reports getting started help in the onboarding module. Needs immediate assistance.",
+        "tags": [
+            "onboarding",
+            "getting_started_help"
+        ]
+    },
+    {
+        "id": 193,
+        "category": "onboarding",
+        "title": "Onboarding Issue - profile setup incomplete",
+        "content": "Profile setup incomplete problem detected. User unable to proceed in onboarding.",
+        "tags": [
+            "onboarding",
+            "profile_setup_incomplete"
+        ]
+    },
+    {
+        "id": 194,
+        "category": "onboarding",
+        "title": "Onboarding Issue - missing onboarding guide",
+        "content": "Missing onboarding guide problem detected. User unable to proceed in onboarding.",
+        "tags": [
+            "onboarding",
+            "missing_onboarding_guide"
+        ]
+    },
+    {
+        "id": 195,
+        "category": "onboarding",
+        "title": "Onboarding Issue - confusing UI steps",
+        "content": "ONBOARDING ERROR: confusing UI steps. System behavior inconsistent.",
+        "tags": [
+            "onboarding",
+            "confusing_UI_steps"
+        ]
+    },
+    {
+        "id": 196,
+        "category": "onboarding",
+        "title": "Onboarding Issue - email verification failed",
+        "content": "Facing issue: email verification failed. Occurs repeatedly when accessing onboarding features.",
+        "tags": [
+            "onboarding",
+            "email_verification_failed"
+        ]
+    },
+    {
+        "id": 197,
+        "category": "onboarding",
+        "title": "Onboarding Issue - getting started help",
+        "content": "User reports getting started help in the onboarding module. Needs immediate assistance.",
+        "tags": [
+            "onboarding",
+            "getting_started_help"
+        ]
+    },
+    {
+        "id": 198,
+        "category": "onboarding",
+        "title": "Onboarding Issue - initial setup error",
+        "content": "Facing issue: initial setup error. Occurs repeatedly when accessing onboarding features.",
+        "tags": [
+            "onboarding",
+            "initial_setup_error"
+        ]
+    },
+    {
+        "id": 199,
+        "category": "onboarding",
+        "title": "Onboarding Issue - missing onboarding guide",
+        "content": "Facing issue: missing onboarding guide. Occurs repeatedly when accessing onboarding features.",
+        "tags": [
+            "onboarding",
+            "missing_onboarding_guide"
+        ]
+    },
+    {
+        "id": 200,
+        "category": "onboarding",
+        "title": "Onboarding Issue - profile setup incomplete",
+        "content": "User reports profile setup incomplete in the onboarding module. Needs immediate assistance.",
+        "tags": [
+            "onboarding",
+            "profile_setup_incomplete"
+        ]
+    }
+]

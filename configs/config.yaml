@@ -1,0 +1,17 @@
+environment: development
+app_name: Autonomous Support Engine
+rag:
+  top_k: 4
+  min_score: 1.0
+  dataset_path: data/synthetic_support_dataset.json
+  persist_directory: chroma_db
+  use_chroma: false
+logging:
+  json_log_path: logs/agent_runs.jsonl
+  sqlite_path: logs/agent_runs.db
+frontend:
+  api_base_url: http://localhost:8000
+simulation:
+  runs: 24
+  output_csv: logs/simulation_metrics.csv
+  output_json: logs/simulation_summary.json
